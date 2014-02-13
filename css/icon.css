@@ -1,0 +1,153 @@
+/* 
+    Document   : icon.css
+    Created on : 15 Feb, 2013, 2:08:07 PM
+    Author     : Shan  K paul(shanpaul06@gmail.com)
+    Description:
+        Icon Styles...
+*/
+
+.icon
+{
+    width: 24px; height: 24px;
+    overflow: none;
+    margin: auto;
+	float:left;
+	margin-right:5px;
+	background:url(../images/icons/unknown.png) left top no-repeat;
+}
+.txt,.dat
+{
+	background:url(../images/icons/txt.png) left top no-repeat;
+}
+.doc,.docx,.wps,.wpd,.odt
+{
+	background:url(../images/icons/doc.png) left top no-repeat;
+}
+
+.ppt,.pptx,.pps
+{
+	background:url(../images/icons/ppt.png) left top no-repeat;
+}
+
+.pdf
+{
+	background:url(../images/icons/pdf.png) left top no-repeat;
+}
+.zip,.pkg,.rar,zipx
+{
+	background:url(../images/icons/zip.png) left top no-repeat;
+}
+.jpg
+{
+	background:url(../images/icons/jpg.png) left top no-repeat;
+}
+.png
+{
+	background:url(../images/icons/png.png) left top no-repeat;
+}
+.gif
+{
+	background:url(../images/icons/gif.png) left top no-repeat;
+}
+.jpeg,.bmp
+{
+	background:url(../images/icons/graphics.png) left top no-repeat;
+}
+.mov,.mpeg,.avi,.mp4,.flx,.swf,.wmv,.vob
+{
+	background:url(../images/icons/mov.png) left top no-repeat;
+}
+.c
+{
+	background:url(../images/icons/c.png) left top no-repeat;
+}
+.cpp
+{
+	background:url(../images/icons/cpp.png) left top no-repeat;
+}
+.java
+{
+	background:url(../images/icons/java.png) left top no-repeat;
+}
+.py
+{
+	background:url(../images/icons/py.png) left top no-repeat;
+}
+.csharp
+{
+	background:url(../images/icons/csharp.png) left top no-repeat;
+}
+.sql
+{
+	background:url(../images/icons/sql.png) left top no-repeat;
+}
+.xls,.xlr
+{
+	background:url(../images/icons/xls.png) left top no-repeat;
+}
+.exe
+{
+	background:url(../images/icons/exe.png) left top no-repeat;
+}
+.js
+{
+	background:url(../images/icons/js.png) left top no-repeat;
+}
+.jar
+{
+	background:url(../images/icons/jar.png) left top no-repeat;
+}
+.mp3,.wave,.mdi,.oog,.mp2,.wma,.mid,.m3u,.m4a
+{
+	background: left top no-repeat;
+}
+.tar
+{
+		background:url(../images/icons/tar.png) left top no-repeat;
+}
+.gz,.rpm
+{
+		background:url(../images/icons/gz.png) left top no-repeat;
+}.pl
+{
+		background:url(../images/icons/pl.png) left top no-repeat;
+}
+.bat
+{
+		background:url(../images/icons/bat.png) left top no-repeat;
+}
+.css
+{
+		background:url(../images/icons/css.png) left top no-repeat;
+}
+.csv
+{
+		background:url(../images/icons/csv.png) left top no-repeat;
+}
+.dll
+{
+		background:url(../images/icons/dll.png) left top no-repeat;
+}
+.deb,.run
+{
+		background:url(../images/icons/deb.png) left top no-repeat;
+}
+.rtf
+{
+		background:url(../images/icons/rtf.png) left top no-repeat;
+}
+.xml
+{
+		background:url(../images/icons/xml.png) left top no-repeat;
+}.tex
+{
+		background:url(../images/icons/tex.png) left top no-repeat;
+}
+.sh
+{
+		background:url(../images/icons/sh.png) left top no-repeat;
+}
+.ini,.sys,.cfg
+{
+		background:url(../images/icons/sh.png) left top no-repeat;
+}
